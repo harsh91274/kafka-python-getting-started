@@ -1,0 +1,6 @@
+{
+    "user": "my_kafka_connector_user",
+    "account": "WEYOUAH-YSB22812",
+    "url": "WEYOUAH-YSB22812.snowflakecomputing.com:443",
+    "private_key_file": "/Users/harshvora/kafka_privatekey_pkcs8.pem"
+}
